@@ -1,0 +1,7 @@
+glob2
+jiwer
+numpy
+opencv-python
+Pillow
+PyMuPDF
+pyocr
